@@ -57,8 +57,6 @@ export function Checkout() {
       offerId,
     } = data
 
-    console.log(data)
-
     createOrder({
       creditCardNumber,
       creditCardExpirationDate,
