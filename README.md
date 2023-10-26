@@ -1,5 +1,7 @@
 # Desafio PEBMED
 
+![Logo do projeto](/src/assets/logo.svg)
+
 Desenvolvimento do Frontend para um sistema de checkout, no qual os usuários têm a opção de realizar uma assinatura anual ou mensal. O sistema apresentará feedback de sucesso ou erro ao submeter o formulário, enviando as informações de pagamento para processamento pelo backend. Simulação de um fluxo de compra de produto digital.
 
 ### 🚀 Features
